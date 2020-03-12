@@ -3,7 +3,7 @@
 | Notation | Definition | Example
 | :-: | - | -
 | L | Total number of layers | -
-| S<sub>l</sub> | Number of units in layer l | -
+| S<sub>l</sub> | Number of units in layer l (small L) | -
 | S<sub>L</sub> | Number of units in output layer | -
 | K | Number of units in output layer | 1&le;K&le;2&ensp;Binary
 | | |
