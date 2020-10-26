@@ -1,3 +1,6 @@
+# Introduction
+* Please use PlantUML to display the MD correctly
+
 # Notations
 ## Definitions
 | Notation | Definition | Example
